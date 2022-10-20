@@ -1,3 +1,8 @@
+// Lab_04_1.cpp
+// Володько Олег
+// Лабораторна робота № 4.1
+// Цикли
+// Варіант 3
 #include <iostream>
 #include <cmath>
 using namespace std;
